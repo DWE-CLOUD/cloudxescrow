@@ -284,7 +284,7 @@ def button_callback(update: Update, context: CallbackContext):
 
 
 def main():
-    updater = Updater("6283447178:AAGCM-Vu5Pcj6UTRBi5mvOhh3wbwqpVj8PQ", use_context=True)
+    updater = Updater("______________", use_context=True)
 
     dispatcher = updater.dispatcher
 
